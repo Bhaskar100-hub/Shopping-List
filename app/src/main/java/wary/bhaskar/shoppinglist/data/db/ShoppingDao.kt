@@ -1,7 +1,8 @@
-package wary.bhaskar.shoppinglist
+package wary.bhaskar.shoppinglist.data.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
+import wary.bhaskar.shoppinglist.data.db.entities.ShoppingItem
 
 @Dao
 interface ShoppingDao {

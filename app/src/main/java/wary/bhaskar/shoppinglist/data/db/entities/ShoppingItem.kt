@@ -1,4 +1,4 @@
-package wary.bhaskar.shoppinglist
+package wary.bhaskar.shoppinglist.data.db.entities
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
